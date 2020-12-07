@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${default}"
+                "${default}",
+                "C:\\ProgramData\\NVIDIA Corporation\\CUDA Samples\\v11.1\\common\\inc\\**"
             ],
             "defines": [
                 "_DEBUG",
